@@ -1,0 +1,9 @@
+pytorch_lightning~=2.3.0
+lightning~=2.3.0
+scipy~=1.13.1
+gluonts~=0.14.0
+numpy
+torch>=2.0.0
+pandas~=2.1.4
+huggingface_hub
+matplotlib
